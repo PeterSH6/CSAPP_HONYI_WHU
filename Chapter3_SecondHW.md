@@ -1,7 +1,4 @@
-<center><font size="5">Second Homework of CSAPP</font></center>
-<center><font size="4">2019 11.3 </font></center>
-<center><font size="4">生广明</font></center>
-<center><font size="4">2018300003086 </font></center>
+# Second Homework of CSAPP
 
 ##### 3.60
 
