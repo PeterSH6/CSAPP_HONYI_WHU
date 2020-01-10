@@ -1,6 +1,5 @@
-<center><font size="4">Forth Homework of CSAPP</font></center>
-<center><font size="3">生广明</font></center>
-<center><font size="3">2018300003086 </font></center>
+#Third Homework of CSAPP
+
 
 ##### 7.6
 
